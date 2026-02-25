@@ -73,6 +73,12 @@
     "navigation": "Navegació: Shift+{{arrow}}",
     "toggleGroup": "Alternar grup: Espai"
   },
+  "notFound": {
+    "back": "Enrera",
+    "backToDags": "Tornar als Dags",
+    "message": "El Dag \"{{dagId}}\" no existeix.",
+    "title": "Dag no trobat"
+  },
   "overview": {
     "buttons": {
       "failedRun_one": "Execució fallida",
@@ -123,6 +129,7 @@
       "direction": "Direcció",
       "label": "Filtrar",
       "mode": "Mode",
+      "modeTooltip": "El mode Estàtic manté la vista actual mentre es navega per diferents tasques, mentre que el mode Recórrer actualitza automàticament el filtre actiu amb la tasca seleccionada per facilitar la navegació pel Dag.",
       "modes": {
         "static": "Estàtic",
         "traverse": "Recórrer"
