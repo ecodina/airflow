@@ -121,6 +121,15 @@
     "graphDirection": {
       "label": "Direcció del gràfic"
     },
+    "showVersionIndicator": {
+      "label": "Mostrar indicador de versió",
+      "options": {
+        "hideAll": "Amagar tot",
+        "showAll": "Mostrar tot",
+        "showBundleVersion": "Mostrar versió de la col·lecció",
+        "showDagVersion": "Mostrar versió del Dag"
+      }
+    },
     "taskStreamFilter": {
       "activeFilter": "Filtre actiu",
       "clearFilter": "Netejar filtre",
