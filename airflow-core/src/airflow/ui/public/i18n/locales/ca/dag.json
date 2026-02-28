@@ -74,7 +74,7 @@
     "toggleGroup": "Alternar grup: Espai"
   },
   "notFound": {
-    "back": "Enrera",
+    "back": "Enrere",
     "backToDags": "Tornar als Dags",
     "message": "El Dag \"{{dagId}}\" no existeix.",
     "title": "Dag no trobat"
