@@ -161,8 +161,8 @@
     "placeholder": "Afegir una nota...",
     "taskInstance": "Nota de la instància de la tasca"
   },
-  "partitionedDagRun_one": "{{count}} execució de Dag particionat",
-  "partitionedDagRun_other": "{{count}} execucions de Dag particionats",
+  "partitionedDagRun_one": "Execució de Dag particionada",
+  "partitionedDagRun_other": "Execucions de Dag particionades",
   "partitionedDagRunDetail": {
     "receivedAssetEvents": "Esdeveniments d'Asset rebuts"
   },
